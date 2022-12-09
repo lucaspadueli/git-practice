@@ -1,0 +1,3 @@
+const wtf = ("wtf is going onnnn")
+
+console.log(wtf)
