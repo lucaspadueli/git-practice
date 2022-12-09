@@ -1,0 +1,11 @@
+console.log("hey")
+
+let name = "Lucas Capella"
+let age = 26
+let profession = "Software engenieer"
+
+console.log(`my name is ${name} I am ${age} years old and I am a ${profession}`)
+
+for(let i=1;i<name.length;i++){
+    console.log(name[i])}
+
