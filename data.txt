@@ -9,3 +9,4 @@ console.log(`my name is ${name} I am ${age} years old and I am a ${profession}`)
 for(let i=1;i<name.length;i++){
     console.log(name[i])}
 
+const file = "test changed"
